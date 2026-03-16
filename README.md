@@ -76,7 +76,7 @@ flowchart TD
 本项目实现了完整的凯撒密码加解密功能，并配备了友好的可视化交互界面。以下为核心功能的操作演示：
 
 ### 1. 核心加解密与暴力破解演示
-![基础加解密演示](./video1.mp4)
+![下载查看video1](./video1.mp4)
 <video src="https://raw.githubusercontent.com/Python-Programming-2026/project1-caesar-cipher-super-awesome-team/refs/heads/main/video1.mp4
 " controls="controls" width="100%"></video>
 
@@ -88,7 +88,7 @@ flowchart TD
 ---
 
 ### 2. 本地文件批量处理演示
-![基础加解密演示](./video2.mp4)
+![下载查看video1](./video2.mp4)
 
 **说明**：本段视频展示了程序为提升实用性而集成的文件 I/O 功能：
 * **文本导入**：用户可通过系统的文件选择器，直接导入本地的 `.txt` 文件，内容会自动加载至输入区。
@@ -97,7 +97,7 @@ flowchart TD
 ---
 
 ### 3. 异常拦截与防呆设计演示
-![基础加解密演示](./video3.mp4)
+![下载查看video1](./video3.mp4)
 
 **说明**：本段视频重点展示了程序的鲁棒性（Robustness）与容错能力：
 * **非法输入拦截**：当用户在必须填写数字的密钥框中，错误地输入了英文字母（如 `abc`）并执行加解密时，系统底层会捕获该异常。
