@@ -77,6 +77,8 @@ flowchart TD
 
 ### 1. 核心加解密与暴力破解演示
 ![基础加解密演示](./video1.mp4)
+<video src="https://raw.githubusercontent.com/Python-Programming-2026/project1-caesar-cipher-super-awesome-team/refs/heads/main/video1.mp4
+" controls="controls" width="100%"></video>
 
 **说明**：本段视频展示了程序的核心密码学逻辑：
 * **字符精确处理**：输入包含大小写字母、数字及标点符号的复杂明文，使用密钥 `3` 进行加解密。程序能够精确移位字母，并**原样保留数字和标点符号**。
